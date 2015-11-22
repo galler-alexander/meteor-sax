@@ -1,1 +1,1 @@
-sax = require("./lib/sax");
+sax = Npm.require('sax');
